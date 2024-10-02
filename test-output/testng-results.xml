@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-02T02:28:47Z" name="Sauce Demo Smoke Test Suite" finished-at="2024-10-02T02:28:54Z" duration-ms="7004">
+  <suite started-at="2024-10-02T03:14:11Z" name="Sauce Demo Smoke Test Suite" finished-at="2024-10-02T03:14:17Z" duration-ms="5449">
     <groups>
     </groups>
-    <test started-at="2024-10-02T02:28:47Z" name="Inventory Page Test" finished-at="2024-10-02T02:28:53Z" duration-ms="6656">
+    <test started-at="2024-10-02T03:14:11Z" name="Inventory Page Test" finished-at="2024-10-02T03:14:16Z" duration-ms="5100">
       <class name="tests.InventoryPageTests">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.InventoryPageTests@5b1ebf56]" started-at="2024-10-02T10:28:47Z" name="setup" finished-at="2024-10-02T10:28:53Z" duration-ms="5941" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.InventoryPageTests@5b1ebf56]" started-at="2024-10-02T11:14:11Z" name="setup" finished-at="2024-10-02T11:14:15Z" duration-ms="4271" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="validateInventoryPage()[pri:0, instance:tests.InventoryPageTests@5b1ebf56]" started-at="2024-10-02T10:28:53Z" name="validateInventoryPage" finished-at="2024-10-02T10:28:53Z" duration-ms="155" status="PASS">
+        <test-method signature="validateInventoryPage()[pri:0, instance:tests.InventoryPageTests@5b1ebf56]" started-at="2024-10-02T11:14:15Z" name="validateInventoryPage" finished-at="2024-10-02T11:14:16Z" duration-ms="185" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateInventoryPage -->
-        <test-method signature="validateProductDesc()[pri:1, instance:tests.InventoryPageTests@5b1ebf56]" started-at="2024-10-02T10:28:53Z" name="validateProductDesc" finished-at="2024-10-02T10:28:53Z" duration-ms="66" status="PASS">
+        <test-method signature="validateProductDesc()[pri:1, instance:tests.InventoryPageTests@5b1ebf56]" started-at="2024-10-02T11:14:16Z" name="validateProductDesc" finished-at="2024-10-02T11:14:16Z" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateProductDesc -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.InventoryPageTests@5b1ebf56]" started-at="2024-10-02T10:28:53Z" name="tearDown" finished-at="2024-10-02T10:28:53Z" duration-ms="129" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.InventoryPageTests@5b1ebf56]" started-at="2024-10-02T11:14:16Z" name="tearDown" finished-at="2024-10-02T11:14:16Z" duration-ms="141" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- tests.InventoryPageTests -->
     </test> <!-- Inventory Page Test -->
-    <test started-at="2024-10-02T02:28:47Z" name="Login Page Test" finished-at="2024-10-02T02:28:54Z" duration-ms="7004">
+    <test started-at="2024-10-02T03:14:11Z" name="Login Page Test" finished-at="2024-10-02T03:14:17Z" duration-ms="5449">
       <class name="tests.LoginPageTests">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginPageTests@6155d082]" started-at="2024-10-02T10:28:47Z" name="setup" finished-at="2024-10-02T10:28:53Z" duration-ms="5944" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginPageTests@6155d082]" started-at="2024-10-02T11:14:11Z" name="setup" finished-at="2024-10-02T11:14:15Z" duration-ms="4271" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="validateSauceDemoTitlePage()[pri:0, instance:tests.LoginPageTests@6155d082]" started-at="2024-10-02T10:28:53Z" name="validateSauceDemoTitlePage" finished-at="2024-10-02T10:28:53Z" duration-ms="21" status="PASS">
+        <test-method signature="validateSauceDemoTitlePage()[pri:0, instance:tests.LoginPageTests@6155d082]" started-at="2024-10-02T11:14:15Z" name="validateSauceDemoTitlePage" finished-at="2024-10-02T11:14:15Z" duration-ms="31" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSauceDemoTitlePage -->
-        <test-method signature="validateSauceDemoURL()[pri:1, instance:tests.LoginPageTests@6155d082]" started-at="2024-10-02T10:28:53Z" name="validateSauceDemoURL" finished-at="2024-10-02T10:28:53Z" duration-ms="139" status="PASS">
+        <test-method signature="validateSauceDemoURL()[pri:1, instance:tests.LoginPageTests@6155d082]" started-at="2024-10-02T11:14:16Z" name="validateSauceDemoURL" finished-at="2024-10-02T11:14:16Z" duration-ms="258" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSauceDemoURL -->
-        <test-method signature="validateLogin()[pri:2, instance:tests.LoginPageTests@6155d082]" started-at="2024-10-02T10:28:53Z" name="validateLogin" finished-at="2024-10-02T10:28:53Z" duration-ms="284" status="PASS">
+        <test-method signature="validateLogin()[pri:2, instance:tests.LoginPageTests@6155d082]" started-at="2024-10-02T11:14:16Z" name="validateLogin" finished-at="2024-10-02T11:14:16Z" duration-ms="258" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginPageTests@6155d082]" started-at="2024-10-02T10:28:54Z" name="tearDown" finished-at="2024-10-02T10:28:54Z" duration-ms="132" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginPageTests@6155d082]" started-at="2024-10-02T11:14:16Z" name="tearDown" finished-at="2024-10-02T11:14:17Z" duration-ms="134" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
